@@ -13,8 +13,8 @@ pageEncoding="ISO-8859-1"%>
 Enter your College Name:
 <input type="text" name="name" size="24"><br><br>
 Enter your Name: <input type="text" name="name" size="24"><br><br>
-Enter your Department name:
-<input type="text" name="name" size="24"><br><br>
+Enter your Roll No.:
+<input type="number" name="roll_no" size="24"><br><br>
 <input type="submit" value="Submit" />
 
 </form>
