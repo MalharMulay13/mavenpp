@@ -10,8 +10,13 @@ pageEncoding="ISO-8859-1"%>
 <b>Welcome to the College survey!</b>
 
 <form action="HelloWorldServlet" method="get">
-Enter your name: <input type="text" name="name" size="24">
+Enter your College Name:
+<input type="text" name="name" size="24"><br><br>
+Enter your Name: <input type="text" name="name" size="24"><br><br>
+Enter your Department name:
+<input type="text" name="name" size="24"><br><br>
 <input type="submit" value="Submit" />
+
 </form>
 </body>
 </html>
